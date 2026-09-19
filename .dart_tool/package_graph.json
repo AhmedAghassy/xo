@@ -12,10 +12,16 @@
         "google_fonts"
       ],
       "devDependencies": [
+        "change_app_package_name",
         "flutter_launcher_icons",
         "flutter_lints",
         "flutter_test"
       ]
+    },
+    {
+      "name": "change_app_package_name",
+      "version": "1.5.0",
+      "dependencies": []
     },
     {
       "name": "flutter_launcher_icons",
